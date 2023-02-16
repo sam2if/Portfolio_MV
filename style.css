@@ -11,7 +11,7 @@ nav {
 .logoplace {
     width: 100px;
     height: 49px;
-    margin-left: 12px;
+    margin-left: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,4 +30,60 @@ nav {
     width: 40px;
     height: 40px;
     padding: 8px;
+}
+
+.headline {
+    width: 375px;
+    height: 604px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 114px 24px;
+    background: url("images/back.svg");
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+
+.pr-t {
+    width: 200px;
+    height: 150px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    color: #172b4d;
+}
+
+.sec-t {
+    width: 320px;
+    height: 140px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #344563;
+   
+}
+
+.soci-med {
+    height: 24px;
+    display: flex;
+
+}
+
+.soci-med p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #7F8CFF;
+}
+
+.icons {
+    width: 170.17px;
+    height: 20px;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-left: 0;
+    padding-top: 10px;
 }
