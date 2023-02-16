@@ -1,5 +1,5 @@
 
-nav {
+.head {
   display: flex;
   height: 48px;
   justify-content: space-between;
@@ -14,13 +14,14 @@ nav {
   justify-content: center;
 }
 
-.logoplace h1 {
+.logoplace a {
   width: 76px;
   height: 20px;
   font-weight: 700;
   font-size: 18px;
   text-align: center;
   color: #6070ff;
+  text-decoration: none;
 }
 
 .humbergur {
@@ -41,11 +42,11 @@ nav {
 }
 
 .pr-t {
-  width: 200px;
+  width: 100%;
   height: 150px;
   font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
+  font-size: 35px;
+  line-height: 45px;
   display: flex;
   align-items: center;
   color: #172b4d;
