@@ -23,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio Mobile-Version <a name="about-project"></a>
+# 📖 Portfolio finishing Mobile-Version <a name="about-project"></a>
 
 
 ## 🛠 Built With <a name="built-with"></a>
