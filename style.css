@@ -1,4 +1,9 @@
 
+.mobile-main {
+  width: 375px;
+  height: 5410px;
+}
+
 .head {
   display: flex;
   height: 48px;
@@ -31,7 +36,7 @@
 }
 
 .headline {
-  height: 604px;
+  height: 440px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -81,4 +86,223 @@
   justify-content: space-between;
   padding-left: 0;
   padding-top: 20px;
+}
+
+.works {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 114px 24px;
+  width: 375px;
+  height: 2788px;
+  background: #f7f7f9;
+}
+
+.cardworks1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 16px;
+  background: #ffffff;
+  padding: 16px;
+  height: 670px;
+  width: 350px;
+}
+
+.snapshot {
+  width: 340px;
+  height: 220px;
+
+}
+
+.leftblock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  gap: 12px;
+  width: 340px;
+  height: 288px;
+}
+
+.prim-txt {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: space-between;
+  padding: 0px;
+  width: 295px;
+  height: 75px;
+}
+
+.prim-txt h2 {
+  width: 295px;
+  height: 36px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+}
+
+.prim-txt img {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  width: 236px;
+  height: 32px;
+}
+
+.leftblock p {
+  margin-top: 40px;
+  width: 220px;
+  height: 50px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563
+}
+
+.tag ul {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  padding-top: 0;
+  width: 203px;
+  height: 24px;
+  justify-content: space-between;
+}
+
+.html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 53px;
+  height: 24px;
+  background: #ebebff;
+  border-radius: 8px;
+}
+
+.css {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 24px;
+  background: #ebebff;
+  border-radius: 8px;
+}
+
+.js {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 89px;
+  height: 24px;
+  background: #ebebff;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.action {
+  margin-top: 0;
+  padding-top: 0;
+  width: 295px;
+  height: 72px;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 12px;
+  width: 100px;
+  height: 25px;
+  border: 1px solid #6070FF;
+  border-radius: 8px;
+  text-align: center;
+} 
+
+.button p {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  letter-spacing: 0.03em;
+  color: #396DF2;
+}
+
+.cardworks2 {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 16px;
+  background: #ffffff;
+  padding: 16px;
+  height: 800px;
+  width: 350px;
+}
+
+.cardworks2 .prim-txt {
+  margin-top: 40px;
+  height: 124px;
+}
+
+.cardworks2 h2 {
+  width: 200px;
+}
+
+.cardworks2 img {
+  margin-top: 40px;
+}
+
+.cardworks3 {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 16px;
+  background: #ffffff;
+  padding: 16px;
+  height: 670px;
+  width: 350px;
+}
+
+.cardworks4 {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 16px;
+  background: #ffffff;
+  padding: 16px;
+  height: 800px;
+  width: 350px;
+}
+
+.cardworks4 .prim-txt {
+  margin-top: 40px;
+  height: 124px;
+}
+
+.cardworks4 h2 {
+  width: 200px;
+}
+
+.cardworks4 img {
+  margin-top: 40px;
+}
+
+.about_myself {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 114px 24px;
+  gap: 24px;
+  width: 375px;
+  height: 1125.15px;
 }
