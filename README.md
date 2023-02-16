@@ -63,9 +63,9 @@ In order to run this project you need:
 
 👤 **Author1**
 
-- GitHub: [samuel_lemma](https://github.com/githubhandle)
-- Twitter: [samuel_lemma](https://twitter.com/twitterhandle)
-- LinkedIn: [samuel_lemma](https://linkedin.com/in/linkedinhandle)
+- GitHub: [samuel_lemma](https://github.com/sam2if)
+- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
+- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -73,7 +73,7 @@ In order to run this project you need:
 
 - [ ] **i will modify the style.css with more interesting background**
 - [ ] **i will add some emojis to make it very simple**
--
+- [ ] **i will add javascript code to add some function to buttons**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
