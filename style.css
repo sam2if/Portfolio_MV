@@ -225,7 +225,7 @@
 } 
 
 .button p {
-  font-weight: 500;
+  font-weight: 550;
   font-size: 17px;
   line-height: 24px;
   display: flex;
@@ -298,11 +298,122 @@
 }
 
 .about_myself {
+  
+  border-top-right-radius: 50px;
+  padding: 114px 24px;
+}
+
+.about_myself .pr-t {
+  width: 250px;
+  height: 150px;
+}
+
+.about_myself .pr-t h1 {
+  line-height: 60px;
+}
+
+.normalbutton {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  width: 140px;
+  height: 48px;
+  border: 1px solid #6070FF;
+  border-radius: 8px;
+}
+
+.normalbutton p {
+  font-weight: 550;
+  font-size: 17px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #396DF2;
+}
+
+.skill {
+  margin-top: 60px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 114px 24px;
-  gap: 24px;
-  width: 375px;
-  height: 1125.15px;
+  padding: 0px;
+  width: 327px;
+  height: 464.15px;
+}
+
+.frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 327px;
+  height: 320.15px;
+}
+
+.frame7 {
+  display: flex;
+  justify-content: space-between;
+  width: 327px;
+  height: 72px;
+
+}
+
+.frame7 p {
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.frame2 {
+  display: flex;
+  justify-content: space-between;
+  width: 327px;
+  height: 72px;
+}
+
+.frame3 {
+  display: flex;
+  justify-content: space-between;
+  width: 327px;
+  height: 72px;
+}
+
+.l-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 327px;
+  height: 248.15px;
+  gap: 15px;
+}
+
+.l-list img {
+  width: 350px;
+  height: 66.72px;
+  background: #F7F7F9;
+  border-radius: 8px;
+}
+
+.frame2 p {
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.frame3 p {
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.hl {
+  width: 350px;
 }
