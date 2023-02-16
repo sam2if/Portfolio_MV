@@ -1,60 +1,105 @@
-# Project Name
 
-> Portfolio Mobile-Version
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Portfolio Mobile-Version <a name="about-project"></a>
 
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
+        .Webhint
+        .Styleint
 
-- Webhint
-- Styleint
+### Key Features <a name="key-features"></a>
 
-## Key Features
-Describe between 1-3 key features of the application.
+- **modifying the color of the header.**
+- **adding some emojis to the html file.**
+- **using eslint**
 
-1) modifying the color of the paragraph and navigation.
-2) adding some background images to the html file.
-3) using eslint
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+## 💻 Getting Started <a name="getting-started"></a>
 
-### Prerequisites: have basic knowledge of html css and javascript.
+To get a local copy up and running, follow these steps.
 
-### Setup: 
-    1) open your local terminal
-    2) run git clone https://github.com/samif1/Hello-Microverse.git
+### Prerequisites: have basic knowledge of html and css.
+
+In order to run this project you need:
+
+### Setup
+
+1) open your local terminal
+2) run git clone https:/github.com/sam2if/Portfolio_MV.
 
 ### Install: vscode, node_js, Eslint
 
-### Usage: 
+### Usage
 
 
+## 👥 Authors <a name="authors"></a>
 
-## Authors
+> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
-- GitHub: [samuel_lemma](https://github.com/sam2if)
-- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
-- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
+- GitHub: [samuel_lemma](https://github.com/githubhandle)
+- Twitter: [samuel_lemma](https://twitter.com/twitterhandle)
+- LinkedIn: [samuel_lemma](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
+## 🔭 Future Features <a name="future-features"></a>
 
-Contributions, issues, and feature requests are welcome!
+> Describe 1 - 3 features you will add to the project.
 
-Feel free to check the [issues page](../../issues/).
+- [ ] **i will modify the style.css with more interesting background**
+- [ ] **i will add some emojis to make it very simple**
+-
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+> Write a message to encourage readers to support your project
 
-## 📝 License
+If you like this project...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
