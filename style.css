@@ -103,7 +103,7 @@
   flex-direction: column;
   align-items: center;
   border-radius: 16px;
-  background: #ffffff;
+  background: #fff;
   padding: 16px;
   height: 670px;
   width: 350px;
@@ -112,7 +112,6 @@
 .snapshot {
   width: 340px;
   height: 220px;
-
 }
 
 .leftblock {
@@ -130,7 +129,7 @@
   flex-direction: column;
   align-items: flex-start;
   align-content: space-between;
-  padding: 0px;
+  padding: 0;
   width: 295px;
   height: 75px;
 }
@@ -148,7 +147,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   width: 236px;
   height: 32px;
 }
@@ -161,7 +160,7 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #344563
+  color: #344563;
 }
 
 .tag ul {
@@ -219,10 +218,10 @@
   padding: 12px;
   width: 100px;
   height: 25px;
-  border: 1px solid #6070FF;
+  border: 1px solid #6070ff;
   border-radius: 8px;
   text-align: center;
-} 
+}
 
 .button p {
   font-weight: 550;
@@ -232,7 +231,7 @@
   align-content: center;
   justify-content: center;
   letter-spacing: 0.03em;
-  color: #396DF2;
+  color: #396df2;
 }
 
 .cardworks2 {
@@ -241,7 +240,7 @@
   flex-direction: column;
   align-items: center;
   border-radius: 16px;
-  background: #ffffff;
+  background: #fff;
   padding: 16px;
   height: 800px;
   width: 350px;
@@ -266,7 +265,7 @@
   flex-direction: column;
   align-items: center;
   border-radius: 16px;
-  background: #ffffff;
+  background: #fff;
   padding: 16px;
   height: 670px;
   width: 350px;
@@ -278,7 +277,7 @@
   flex-direction: column;
   align-items: center;
   border-radius: 16px;
-  background: #ffffff;
+  background: #fff;
   padding: 16px;
   height: 800px;
   width: 350px;
@@ -298,7 +297,6 @@
 }
 
 .about_myself {
-  
   border-top-right-radius: 50px;
   padding: 114px 24px;
 }
@@ -318,7 +316,7 @@
   margin-top: 30px;
   width: 140px;
   height: 48px;
-  border: 1px solid #6070FF;
+  border: 1px solid #6070ff;
   border-radius: 8px;
 }
 
@@ -328,7 +326,7 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #396DF2;
+  color: #396df2;
 }
 
 .skill {
@@ -336,7 +334,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   width: 327px;
   height: 464.15px;
 }
@@ -345,7 +343,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0px;
+  padding: 0;
   width: 327px;
   height: 320.15px;
 }
@@ -355,7 +353,6 @@
   justify-content: space-between;
   width: 327px;
   height: 72px;
-
 }
 
 .frame7 p {
@@ -364,8 +361,9 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
+
 .frame2 {
   display: flex;
   justify-content: space-between;
@@ -392,7 +390,7 @@
 .l-list img {
   width: 350px;
   height: 66.72px;
-  background: #F7F7F9;
+  background: #f7f7f9;
   border-radius: 8px;
 }
 
@@ -402,7 +400,7 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .frame3 p {
@@ -411,7 +409,7 @@
   line-height: 24px;
   display: flex;
   align-items: center;
-  color: #000000;
+  color: #000;
 }
 
 .hl {
