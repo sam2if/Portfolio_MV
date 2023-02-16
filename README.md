@@ -69,11 +69,9 @@ In order to run this project you need:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **i will modify the style.css with more interesting background**
-- [ ] **i will add some emojis to make it very simple**
 - [ ] **i will add javascript code to add some function to buttons**
+- [ ] **i will add some emojis to make it very simple**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
