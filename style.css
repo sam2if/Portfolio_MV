@@ -33,14 +33,13 @@ nav {
 }
 
 .headline {
-    width: 375px;
     height: 604px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 114px 24px;
-    background: url("images/back.svg");
-    background-repeat: repeat-x;
+    background: url("images/header-shapes\ mobile.png");
+    background-repeat: no-repeat;
     background-size: contain;
 }
 
