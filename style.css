@@ -4,6 +4,14 @@
   font-style: normal;
 }
 
+* a:hover {
+  background-color: blueviolet;
+}
+
+* a:active {
+  color: red;
+}
+
 .mobile-main {
   width: 375px;
   height: 5410px;
