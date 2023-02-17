@@ -23,21 +23,36 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio Mobile-Version <a name="about-project"></a>
+# 📖 [POrtfolio Finishing Mobile Version] <a name="about-project"></a>
 
+
+**Portfolio finishing Mobile Version** is a personal portfolio which describes all my skills and personal projects, you can go through and check it.
 
 ## 🛠 Built With <a name="built-with"></a>
-        .Webhint
-        .Styleint
+
+    .Webhint
+    .Styleint
+    .html
+    .css
+
+### Tech Stack <a name="tech-stack"></a>
 
 ### Key Features <a name="key-features"></a>
 
-- **modifying the color of the header.**
 - **adding some emojis to the html file.**
-- **using eslint**
+- **adding some more interesting background to webpage**
+- **adding more semantic tags to make it rwd**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -47,42 +62,63 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+
 ### Setup
 
 1) open your local terminal
 2) run git clone https:/github.com/sam2if/Portfolio_MV.
 
-### Install: vscode, node_js, Eslint
+### Install: vscode, eslint, node_js
+
+Install this project with:
 
 ### Usage
 
+To run the project, execute the following command:
 
-## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [samuel_lemma](https://github.com/githubhandle)
-- Twitter: [samuel_lemma](https://twitter.com/twitterhandle)
-- LinkedIn: [samuel_lemma](https://linkedin.com/in/linkedinhandle)
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **i will modify the style.css with more interesting background**
-- [ ] **i will add some emojis to make it very simple**
--
+### Run tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [samuel_lemma](https://github.com/sam2if)
+- Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
+- LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **I will modify the style.css with more interesting background**
+- [ ] **I will add javascript code to add some function to buttons**
+- [ ] **I will add some emojis to make it very simple**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a star!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,11 +126,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse for giving me a chance to practice on some real world projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
