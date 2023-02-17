@@ -103,12 +103,12 @@
 }
 
 .works {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: auto;
   align-items: center;
   padding: 114px 24px;
   width: 375px;
-  height: 2788px;
+  height: 3218px;
   background: #f7f7f9;
 }
 
@@ -290,7 +290,7 @@
   border-radius: 16px;
   background: #fff;
   padding: 16px;
-  height: 800px;
+  height: 648px;
   width: 350px;
 }
 
