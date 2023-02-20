@@ -178,15 +178,21 @@
 }
 
 .tags > ul {
-  list-style: none;
+  /* list-style: none;
   width: 203px;
   height: 24px;
   display: flex;
   gap: 8px;
   padding: 0;
   margin-left: 0;
+  float: right; */
+  display: inline;
+  width: 200px;
 }
+.tags ul li{
+  width: 40px;
 
+}
 .html1 {
   width: 53px;
   height: 24px;
