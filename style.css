@@ -458,3 +458,15 @@
 hr {
   width: 100%;
 }
+
+.contact-form {
+  border-top-left-radius: 68px;
+  display: flex;
+  flex-direction: column;
+  width: 373px;
+  height: 779px;
+  background: #6070FF;
+  background-image: ;
+  background-repeat: no-repeat;
+
+}
