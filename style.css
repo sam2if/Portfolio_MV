@@ -6,6 +6,10 @@
   margin: 0;
 }
 
+* a {
+  text-decoration: none;
+}
+
 * a:hover {
   background-color: blueviolet;
 }
@@ -468,18 +472,20 @@ hr {
 }
 
 .contact-form {
-  margin-top: 100px;
+  margin-top: 150px;
   border-top-left-radius: 68px;
   display: flex;
   flex-direction: column;
   width: 373px;
-  height: 779px;
+  height: 800px;
   background: #6070ff;
-  background-repeat: no-repeat;
+  background-image: url("images/contact\ form.png");
+  background-size: cover;
+  background-repeat: repeat-x;
 }
 
 .contact-form h2 {
-  margin-top: 150px;
+  margin-top: 130px;
   width: 327px;
   height: 56px;
   font-family: 'Poppins', sans-serif;
@@ -495,6 +501,7 @@ hr {
 }
 
 .contact-form p {
+  margin-top: 30px;
   margin-left: 24px;
   width: 327px;
   height: 102px;
@@ -512,7 +519,7 @@ form {
   padding: 20px;
 }
 
-.txt {
+form .txt {
   font-weight: 400;
   font-size: 17px;
   line-height: 20px;
@@ -549,7 +556,7 @@ textarea {
   color: #b3bac5;
 }
 
-button {
+form button {
   margin-top: 20px;
   display: flex;
   flex-direction: row;
@@ -567,4 +574,17 @@ button {
 
 button:hover {
   background-color: violet;
+}
+
+button:active {
+  color: red;
+}
+
+.hl {
+  margin-top: 25px;
+  margin-left: 95px;
+  width: 134px;
+  height: 5px;
+  background: #0d151e;
+  border-radius: 10px;
 }
