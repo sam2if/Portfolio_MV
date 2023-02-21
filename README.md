@@ -91,6 +91,11 @@ To run the project, execute the following command:
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
+👤 **Author1**
+
+- GitHub: [@sheldon](https://github.com/githubhandle)
+- Twitter: [@sheldon](https://twitter.com/twitterhandle)
+- LinkedIn: [sheldon](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
