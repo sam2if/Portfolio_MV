@@ -470,3 +470,84 @@ hr {
   background-repeat: no-repeat;
 
 }
+
+.contact-form h2 {
+  margin-top: 150px;
+  width: 327px;
+  height: 56px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+
+.contact-form p {
+  margin-left: 24px;
+  width: 327px;
+  height: 102px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #EBEBFF;
+}
+
+form {
+  width: 327px;
+  padding: 20px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.txt {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #172B4D;
+  width: 100%;
+  padding-left: 10px;
+  height: 100%;
+  border: 1px solid #CFD8DC;
+  border-radius: 8px;
+}
+
+.ta {
+  padding: 10px;
+}
+
+.inp {
+  
+  display: flex;
+  align-items: center;
+
+  margin-top: 20px;
+  width: 327px;
+  height: 48px;
+  background: #FFFFFF;
+  border: 1px solid #CFD8DC;
+  border-radius: 8px;
+}
+
+textarea {
+  height: 170px;
+  width: 310px;
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #B3BAC5;
+
+}
