@@ -462,6 +462,7 @@ hr {
 }
 
 .contact-form {
+  margin-top: 100px;
   border-top-left-radius: 68px;
   display: flex;
   flex-direction: column;
@@ -568,4 +569,8 @@ button {
   height: 48px;
   background: #FFFFFF;
   border-radius: 8px;
+}
+
+button:hover {
+  background-color: violet;
 }
