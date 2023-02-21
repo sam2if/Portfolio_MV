@@ -179,6 +179,12 @@
   color: #344563;
 }
 
+form ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
 .tags > ul {
   list-style: none;
   width: 203px;
@@ -468,17 +474,15 @@ hr {
   flex-direction: column;
   width: 373px;
   height: 779px;
-  background: #6070FF;
-  background-image: ;
+  background: #6070ff;
   background-repeat: no-repeat;
-
 }
 
 .contact-form h2 {
   margin-top: 150px;
   width: 327px;
   height: 56px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -487,21 +491,20 @@ hr {
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: #FFFFFF;
+  color: #fff;
 }
-
 
 .contact-form p {
   margin-left: 24px;
   width: 327px;
   height: 102px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
   text-align: center;
-  color: #EBEBFF;
+  color: #ebebff;
 }
 
 form {
@@ -509,21 +512,15 @@ form {
   padding: 20px;
 }
 
-ul {
-  display: flex;
-  flex-direction: column;
-  list-style: none;
-}
-
 .txt {
   font-weight: 400;
   font-size: 17px;
   line-height: 20px;
-  color: #172B4D;
+  color: #172b4d;
   width: 100%;
   padding-left: 10px;
   height: 100%;
-  border: 1px solid #CFD8DC;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
 }
 
@@ -532,15 +529,13 @@ ul {
 }
 
 .inp {
-  
   display: flex;
   align-items: center;
-
   margin-top: 20px;
   width: 327px;
   height: 48px;
-  background: #FFFFFF;
-  border: 1px solid #CFD8DC;
+  background: #fff;
+  border: 1px solid #cfd8dc;
   border-radius: 8px;
 }
 
@@ -551,8 +546,7 @@ textarea {
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: #B3BAC5;
-
+  color: #b3bac5;
 }
 
 button {
@@ -564,10 +558,10 @@ button {
   font-weight: 500;
   font-size: 17px;
   line-height: 24px;
-  color: #6070FF;
+  color: #6070ff;
   width: 142px;
   height: 48px;
-  background: #FFFFFF;
+  background: #fff;
   border-radius: 8px;
 }
 
