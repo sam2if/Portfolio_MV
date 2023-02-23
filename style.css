@@ -454,7 +454,7 @@ button:hover {
   }
 
   .card {
-    width: 85%;
+    width: 90%;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -623,7 +623,7 @@ button:hover {
   }
 
   .card {
-    width: 65%;
+    width: 80%;
     padding: 20px;
   }
 
