@@ -23,10 +23,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [POrtfolio Finishing Mobile Version] <a name="about-project"></a>
+# 📖 [POrtfolio: accesibility] <a name="about-project"></a>
 
 
-**Portfolio finishing Mobile Version** is a personal portfolio which describes all my skills and personal projects, you can go through and check it.
+**Portfolio:accesibility** is a portfolio project which has a high accesibility.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,7 +66,7 @@ In order to run this project you need:
 ### Setup
 
 1) open your local terminal
-2) run git clone https:/github.com/sam2if/Portfolio_MV.
+2) run git clone https://github.com/Otegaa/setup-and-mobile-first/pull/9.
 
 ### Install: vscode, eslint, node_js
 
@@ -74,7 +74,7 @@ Install this project with:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: https://github.com/Otegaa/setup-and-mobile-first/pull/9
 
 
 ### Run tests
@@ -83,7 +83,7 @@ To run the project, execute the following command:
 
 ### Deployment
 
-You can deploy this project using: https://sam2if.github.io/
+You can deploy this project using: 
 
 <!-- AUTHORS -->
 
@@ -95,11 +95,13 @@ You can deploy this project using: https://sam2if.github.io/
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
-👤 **Author1**
 
-- GitHub: [@sheldon](https://github.com/githubhandle)
-- Twitter: [@sheldon](https://twitter.com/twitterhandle)
-- LinkedIn: [sheldon](https://linkedin.com/in/linkedinhandle)
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Otegaa)
+- Twitter: [@twitterhandle](https://twitter.com/O_tegaaa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessing-ekiugbo/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
