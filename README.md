@@ -81,6 +81,10 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Deployment
+
+You can deploy this project using: https://sam2if.github.io/
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
