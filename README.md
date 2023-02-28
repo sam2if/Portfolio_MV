@@ -72,14 +72,27 @@ In order to run this project you need:
 
 Install this project with:
 
+### Setup
+
+1) open your local terminal
+2) run git clone https://github.com/Otegaa/setup-and-mobile-first/pull/9.
+
+### Install: vscode, eslint, node_js
+
+Install this project with:
+
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the following command: https://github.com/Otegaa/setup-and-mobile-first/pull/9
 
 
 ### Run tests
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Deployment
+
+You can deploy this project using: 
 
 <!-- AUTHORS -->
 
@@ -91,11 +104,13 @@ To run the project, execute the following command:
 - Twitter: [samuel_lemma](https://twitter.com/samuellemma3733)
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
-👤 **Author1**
 
-- GitHub: [@sheldon](https://github.com/githubhandle)
-- Twitter: [@sheldon](https://twitter.com/twitterhandle)
-- LinkedIn: [sheldon](https://linkedin.com/in/linkedinhandle)
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Otegaa)
+- Twitter: [@twitterhandle](https://twitter.com/O_tegaaa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessing-ekiugbo/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
