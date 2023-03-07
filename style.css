@@ -214,7 +214,6 @@ ul li {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
   padding-bottom: 150px;
   position: relative;
   z-index: 1000;
@@ -491,7 +490,7 @@ button:hover {
   .container {
     padding: 1rem 10%;
   }
-  
+
   .hamburger {
     display: none;
   }
@@ -499,6 +498,10 @@ button:hover {
   .navnav-menu {
     display: block;
     display: flex;
+  }
+
+  .work-details a {
+    color: var(--work-details);
   }
 
   .navnav-menu li a {
@@ -589,10 +592,6 @@ button:hover {
 
   .col-2 {
     width: 60%;
-  }
-
-  .work-details a {
-    color: var(--work-details);
   }
 
   .col-2 h1 {
