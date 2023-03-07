@@ -58,28 +58,21 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites: have basic knowledge of html and css.
-
-In order to run this project you need:
+### Prerequisites
 
 
-### Setup
+In order to run this project you need: have basic knowledge of html and css.
 
-1) open your local terminal
-2) run git clone https:/github.com/sam2if/Portfolio_MV.
+### Install
 
-### Install: vscode, eslint, node_js
-
-Install this project with:
+Install this project with: vscode, eslint, node_js
 
 ### Setup
 
 1) open your local terminal
 2) run git clone https://github.com/Otegaa/setup-and-mobile-first/pull/9.
 
-### Install: vscode, eslint, node_js
 
-Install this project with:
 
 ### Usage
 
@@ -88,11 +81,13 @@ To run the project, execute the following command: https://github.com/Otegaa/set
 
 ### Run tests
 
+npx eslint .
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Deployment
 
-You can deploy this project using: 
+You can deploy this project using: github-pages
 
 <!-- AUTHORS -->
 
@@ -147,7 +142,5 @@ I would like to thank Microverse for giving me a chance to practice on some real
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
