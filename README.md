@@ -105,13 +105,6 @@ You can deploy this project using:
 - LinkedIn: [samuel_lemma](https://www.linkedin.com/in/samuel-lemma-7479b1214/)
 
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/Otegaa)
-- Twitter: [@twitterhandle](https://twitter.com/O_tegaaa)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessing-ekiugbo/)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
