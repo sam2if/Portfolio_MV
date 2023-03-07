@@ -181,182 +181,181 @@ ul li {
   display: none;
 }
 
-  .home-title h1 {
-    margin-top: 20%;
-    font-size: 38px;
-    line-height: 40px;
-  }
+.home-title h1 {
+  margin-top: 20%;
+  font-size: 38px;
+  line-height: 40px;
+}
 
-  .home-title p {
-    font-size: 18px;
-    width: 90%;
-    line-height: 23px;
-  }
+.home-title p {
+  font-size: 18px;
+  width: 90%;
+  line-height: 23px;
+}
 
-  .navbar {
-    margin-top: 1rem;
-  }
+.navbar {
+  margin-top: 1rem;
+}
 
-  .menu-list ul {
-    display: flex;
-    font-size: 13px;
-  }
+.menu-list ul {
+  display: flex;
+  font-size: 13px;
+}
 
-  .menu-list li {
-    margin-left: 20px;
-  }
+.menu-list li {
+  margin-left: 20px;
+}
 
-  .desktop-only {
-    display: block;
-  }
+.desktop-only {
+  display: block;
+}
 
-  .card {
-    width: 85%;
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-  }
+.card {
+  width: 85%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
 
-  .mobile-only {
-    display: none;
-  }
+.mobile-only {
+  display: none;
+}
 
-  .row {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-  }
+.row {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
 
-  .reverse {
-    display: flex;
-    flex-direction: row-reverse;
-  }
+.reverse {
+  display: flex;
+  flex-direction: row-reverse;
+}
 
-  .col-1,
-  .col-2 {
-    flex-basis: 50%;
-  }
+.col-1,
+.col-2 {
+  flex-basis: 50%;
+}
 
-  .col-1 img {
-    width: 100%;
-    object-fit: contain;
-  }
+.col-1 img {
+  width: 100%;
+  object-fit: contain;
+}
 
-  .col-2 {
-    width: 60%;
-  }
+.col-2 {
+  width: 60%;
+}
 
-  .work-details a {
-    color: var(--work-details);
-  }
+.work-details a {
+  color: var(--work-details);
+}
 
-  .col-2 h1 {
-    margin-top: 10px;
-    font-size: 30px;
-    line-height: 32px;
-  }
+.col-2 h1 {
+  margin-top: 10px;
+  font-size: 30px;
+  line-height: 32px;
+}
 
-  .col-2 br {
-    display: none;
-  }
+.col-2 br {
+  display: none;
+}
 
-  .col-2 p {
-    margin-top: 10px;
-  }
+.col-2 p {
+  margin-top: 10px;
+}
 
-  .col-2 button {
-    padding: 8px 15px;
-    margin-top: 12px;
-  }
+.col-2 button {
+  padding: 8px 15px;
+  margin-top: 12px;
+}
 
-  /* About section starts here */
+/* About section starts here */
 
-  #about-section {
-    background-image: url("./images/dsk-about.png");
-    width: 100%;
-    margin-top: -150px;
-    padding-bottom: 170px;
-  }
+#about-section {
+  background-image: url("./images/dsk-about.png");
+  width: 100%;
+  margin-top: -150px;
+  padding-bottom: 170px;
+}
 
-  .about-title .row {
-    gap: 20px;
-  }
+.about-title .row {
+  gap: 20px;
+}
 
-  .left {
-    flex-basis: 40%;
-    padding-right: 26px;
-  }
+.left {
+  flex-basis: 40%;
+  padding-right: 26px;
+}
 
-  .right {
-    flex-basis: 50%;
-  }
+.right {
+  flex-basis: 50%;
+}
 
-  .about-title h1 {
-    margin-top: 50px;
-  }
+.about-title h1 {
+  margin-top: 50px;
+}
 
-  .box {
-    display: flex;
-  }
+.box {
+  display: flex;
+}
 
-  .languages-box {
-    width: 122px;
-    height: 120px;
-    margin-right: 20px;
-    margin-top: 0.5rem;
-  }
+.languages-box {
+  width: 122px;
+  height: 120px;
+  margin-right: 20px;
+  margin-top: 0.5rem;
+}
 
-  .languages-box img {
-    width: 60%;
-  }
+.languages-box img {
+  width: 60%;
+}
 
-  .languages-box li {
-    display: flex;
-    flex-direction: column;
-  }
+.languages-box li {
+  display: flex;
+  flex-direction: column;
+}
 
-  .languages-box p {
-    margin-top: -10px;
-  }
+.languages-box p {
+  margin-top: -10px;
+}
 
-  .languages-section {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
+.languages-section {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 
-  .languages-title h3 {
-    margin-bottom: 15px;
-  }
+.languages-title h3 {
+  margin-bottom: 15px;
+}
 
-  /* Contact section starts here */
+/* Contact section starts here */
 
-  #contact-section {
-    background-image: url("./images/desktop-contact.png");
-    margin-top: -8rem;
-    width: 100%;
-    height: auto;
-  }
+#contact-section {
+  background-image: url("./images/desktop-contact.png");
+  margin-top: -8rem;
+  width: 100%;
+  height: auto;
+}
 
-  .contact-details h1 {
-    padding-top: 4rem;
-  }
+.contact-details h1 {
+  padding-top: 4rem;
+}
 
-  .contact-details p {
-    padding-left: 19%;
-    padding-right: 19%;
-    margin-bottom: 30px;
-  }
+.contact-details p {
+  padding-left: 19%;
+  padding-right: 19%;
+  margin-bottom: 30px;
+}
 
-  .form,
-  .contact-form-input,
-  .message {
-    width: 500px;
-  }
+.form,
+.contact-form-input,
+.message {
+  width: 500px;
+}
 
-  .contact-details .primary-btn {
-    margin-left: 35%;
-  }
+.contact-details .primary-btn {
+  margin-left: 35%;
 }
 
 @media (min-width: 1200px) {
