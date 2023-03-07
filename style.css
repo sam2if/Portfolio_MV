@@ -159,10 +159,12 @@ ul li {
 
 .hamburger.active .barbar:nth-child(1) {
   transform: translateY(8px) rotate(45deg);
+  background-color: #fff;
 }
 
 .hamburger.active .barbar:nth-child(3) {
   transform: translateY(-8px) rotate(-45deg);
+  background-color: #fff;
 }
 
 .navnav-item li {
@@ -195,7 +197,7 @@ ul li {
   align-items: center;
   margin: 0;
   align-self: auto;
-  padding-top: 10%;
+  padding-top: 23%;
   line-height: 65px;
   text-align: start;
   mix-blend-mode: multiply;
@@ -209,6 +211,7 @@ ul li {
   width: 100%;
   height: auto;
   background-image: url("./images/mobile-base.png");
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -487,6 +490,21 @@ button:hover {
 
   .container {
     padding: 1rem 10%;
+  }
+  
+  .hamburger {
+    display: none;
+  }
+
+  .navnav-menu {
+    display: block;
+    display: flex;
+  }
+
+  .navnav-menu li a {
+    color: #344563;
+    font-size: 16px;
+    margin: 0 5px;
   }
 
   .menu-bar {
