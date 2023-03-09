@@ -169,6 +169,7 @@ ul li {
 
 .back-pop {
   position: absolute;
+  display: none;
   background-color: rgba(130, 134, 141, 0.841);
   backdrop-filter: blur(5px);
   width: 100%;
