@@ -387,7 +387,20 @@ closeModal.addEventListener('click', closePopup);
 
 // --------- implement the validation form ---------------
 
+const form = document.getElementById('form');
+const email = document.getElementById('email');
+const error = document.querySelector('.error');
 
+form.addEventListener('submit', (e) => {
+  const emailData = email.value;
+
+  for (let i = 0; i < emailData.length; i += 1) {
+    if (emailData[i] !== emailData[i].toLowerCase()) {
+      e.preventDefault();
+      error.innerText = 'Please enter email in lowercase!';
+    }
+  }
+});
 
 // ------------------- Local-Storage ------------------
 const contactForm = document.getElementById('form');
