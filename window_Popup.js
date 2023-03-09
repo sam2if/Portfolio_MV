@@ -417,7 +417,3 @@ contactForm.addEventListener('input', () => {
   localStorage.setItem('userData', JSON.stringify(contactData));
 });
 
-const GetDataFromLocalStorage = JSON.parse(localStorage.getItem('userData'));
-Name.value = GetDataFromLocalStorage.username;
-Email.value = GetDataFromLocalStorage.email;
-Message.value = GetDataFromLocalStorage.message;
