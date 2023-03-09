@@ -275,7 +275,6 @@ ul li {
   background-image: url('./images/mobile-base.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
   padding-bottom: 150px;
   position: relative;
 }
@@ -564,6 +563,25 @@ button:hover {
 
   .container {
     padding: 1rem 10%;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .navnav-menu {
+    display: block;
+    display: flex;
+  }
+
+  .work-details a {
+    color: var(--work-details);
+  }
+
+  .navnav-menu li a {
+    color: #344563;
+    font-size: 16px;
+    margin: 0 5px;
   }
 
   .menu-bar {
