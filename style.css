@@ -677,10 +677,6 @@ button:hover {
     width: 60%;
   }
 
-  .work-details a {
-    color: var(--work-details);
-  }
-
   .col-2 h2 {
     margin-top: 10px;
     font-size: 30px;
