@@ -111,9 +111,9 @@ const portfolioData = [
     workTools: ['html', 'css', 'javaScript', 'github', 'Ruby', 'Bootstrap'],
 
     liveIcon: './images/live-Icon.svg',
-    liveLink: 'https://felixdev22.github.io/Mobile-first-D3/',
+    liveLink: 'https://github.com/sam2if/Portfolio_MV',
 
-    sourceLink: 'https://github.com/felixDev22/Mobile-first-D3',
+    sourceLink: 'https://github.com/sam2if/Portfolio_MV',
     sourceIcon: './images/bluegithub.svg',
   },
 ];
