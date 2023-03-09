@@ -5,41 +5,55 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>Portfolio Mobile First</title>
+    <title>Felix full-stack web developer</title>
   </head>
 
   <body>
-
+    <!-- Header-section starts here -->
     <div class="hero-section">
       <header>
+
+        <!---------------dropdown-menu------------->
+        <div class='mobile-menu' id='mobile-menu'>
+              <div class="menu-x ">
+          <img src="./images/XIcon.svg" alt="close-menu"
+            onclick=closeMenu()  id="closeMenu"/>
+        </div>
+
+        <ul class='drop-menu-list'>
+            <li><a href="#work" aria-label ="portfolio area" class='target'>Portfolio</a></li>
+            <li><a href="#about" aria-label ="about me area">About</a></li>
+            <li><a href="#contact" aria-label ="contact me area">Contact</a></li>
+          </ul>       
+        </div>
+        <!---------------dropdown-menu------------->
+
         <div class="container">
           <nav class="navbar flex">
             <div class="logo">
-              <h2>My Logo</h2>
+              <a href="index.html"><h2>MOZO</h2></a>
             </div>
             
-            <ul class="navnav-menu">
-              <li>
-                <a href="#work-section" class="navnav-items" style="text-decoration: none;">Portfolio</a>
-              </li>
-              <li>
-                <a href="#about-section" class="navnav-item" style="text-decoration: none;">About</a>
-              </li>
-              <li>
-                <a href="#contact-section" class="navnav-item" style="text-decoration: none;">Contact</a>
-              </li>
-            </ul>
+            <div class='menu-list'>
+              <ul>
+                <li><a href="#work" aria-label ="portfolio area" > Portfolio</a></li>
+                <li><a href="#about" aria-label ="about me area" > About</a></li>
+                <li><a href="#contact" aria-label ="contact me area" > Contact</a></li>
+              </ul>
+            </div>
 
-            <div class="hamburger">
-              <span class="barbar"></span>
-              <span class="barbar"></span>
-              <span class="barbar"></span>
+
+            <div class="menu-bar">
+              <img src="./images/menu-bar.png" alt="menu" onclick=showMenu() id="menu"/>
             </div>
           </nav>
         </div>
       </header>
-     
+    
 
+
+      <!-- Header-section Ends here -->
+      <!-- Home-page section Starts here -->
       <main>
         <section class="home-page container">
           <div class="home-title">
@@ -51,229 +65,81 @@
               I’m a software developer! I can help you build a product , feature
               or website Look through some of my work and experience! If you
               like what you see and have a project you need coded, don’t
-              hestiate to contact me.
+              hesitate to contact me.
             </p>
             <a href="#" class="connect">LET'S CONNECT</a>
 
             <ul class="social-icons">
               <li>
                 <a href="twitter.com/" target="_blank">
-                  <img src="./images/twitter.svg" alt="twitter-icon" />
+                  <img src="./images/twitter.svg" alt="twitter" />
                 </a>
               </li>
 
               <li>
                 <a href="linkedin.com" target="_blank">
-                  <img src="./images/linkedIn.svg" alt="linkedin-icon"
+                  <img src="./images/linkedIn.svg" alt="linkedin"
                 /></a>
               </li>
 
               <li>
                 <a href="medium.com" target="_blank">
-                  <img src="./images/medium.svg" alt="medium-icon" />
+                  <img src="./images/medium.svg" alt="medium" />
                 </a>
               </li>
 
               <li>
                 <a href="github.com" target="_blank">
-                  <img src="./images/github.svg" alt="github-icon" />
+                  <img src="./images/github.svg" alt="github" />
                 </a>
               </li>
 
               <li>
                 <a href="angel.com" target="_blank">
-                  <img src="./images/angel.svg" alt="angel-icon" />
+                  <img src="./images/angel.svg" alt="angel" />
                 </a>
               </li>
             </ul>
           </div>
         </section>
          </div>
-       
 
-        <section id="work-section">
+        <!-- Home-page section Ends here -->
+
+        <!-- Work-section Starts here -->
+
+        <section id="work">
           <div class="grid-container">
-            <!-- portfolio - 1 -->
-            <div class="card">
-              <div class="row">
-                <div class="col-1 work-1">
-                <a href="#"
-                  ><img src="./images/Portfolio 1.png" class="mobile-only" alt="portfolio-1"
-                /></a>
-  
-                   <a href="#"
-                  ><img src="./images/dsk Portfolio1.png" class="desktop-only" alt="portfolio-1"
-                /></a>
-                
-                </div>
-
-                <div class="col-2">
-                <a href="#"><h1>TONIC</h1></a>
-                <div class="work-details flex2">
-                  <a href="#"><h3>CANOPY</h3></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>Back End Dev</h4></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>2015</h4></a>
-                </div>
-                <p>
-                  A daily selection of privately personalized reads; no accounts
-                  or sign-ups required.
-                </p>
-                <ul>
-                  <li class="work-tools">
-                    <button type="button" class="tools">html</button>
-                    <button type="button" class="tools">css</button>
-                    <button type="button" class="tools">javascript</button>
-                  </li>
-                </ul>
-                <div>
-                  <button type="button" class="primary-btn">See Project</button>
-                </div>
-              </div>
-              </div>
-            </div>
-
-            <div class="card">
-              <div class="row reverse">
-                <div class="col-1">
-                <a href="#"
-                  ><img src="./images/Portfolio 2.png" class="mobile-only" alt="portfolio-1"
-                /></a>
-
-                     <a href="#"
-                  ><img src="./images/dsk Portfolio2.png" class="desktop-only" alt="portfolio-1"
-                /></a>
-
-                </div>
-
-                <div class="col-2">
-                <a href="#"
-                  ><h1>Multi-Post<br /> Stories</h1></a>
-
-                  
-                <div class="work-details flex2">
-                  <a href="#"><h3>CANOPY</h3></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>Back End Dev</h4></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>2015</h4></a>
-                </div>
-                <p>
-                  A daily selection of privately personalized reads; no accounts
-                  or sign-ups required.
-                </p>
-                <ul>
-                  <li class="work-tools">
-                    <button type="button" class="tools">html</button>
-                    <button type="button" class="tools">css</button>
-                    <button type="button" class="tools">javascript</button>
-                  </li>
-                </ul>
-                <div>
-                  <button type="button" class="primary-btn">See Project</button>
-                </div>
-              </div>
-              </div>
-                </div>
-              
-            <div class="card selected-card">
-              <div class="row">
-                <div class="col-1">
-                <a href="#"
-                  ><img src="./images/Portfolio 3.png" class="mobile-only" alt="portfolio-1"
-                /></a>
-
-                    <a href="#"
-                  ><img src="./images/dsk Portfolio3.png" class="desktop-only" alt="portfolio-1"
-                /></a>
-
-
-                </div>
-
-                <div class="col-2" >
-                <a href="#"><h1>TONIC</h1></a>
-                <div class="work-details flex2">
-                  <a href="#"><h3>CANOPY</h3></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>Back End Dev</h4></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>2015</h4></a>
-                </div>
-                <p>
-                  A daily selection of privately personalized reads; no accounts
-                  or sign-ups required.
-                </p>
-                <ul>
-                  <li class="work-tools">
-                    <button type="button" class="tools">html</button>
-                    <button type="button" class="tools">css</button>
-                    <button type="button" class="tools">javascript</button>
-                  </li>
-                </ul>
-                <div>
-                  <button type="button"class='active'>See Project</button>
-                </div>
-              </div>
-              </div>
-            </div>
-            <div class="card">
-              <div class="row reverse">
-                <div class="col-1">
-                <a href="#"
-                  ><img src="./images/Portfolio 4.png" class="mobile-only" alt="portfolio-1"
-                /></a>
-
-                    <a href="#"
-                  ><img src="./images/dsk Portfolio.png" class="desktop-only" alt="portfolio-1"
-                /></a>
-
-                </div>
-
-                <div class="col-2">
-                <a href="#"
-                  ><h1>Multi-Post<br /> Stories</h1></a>
-
-                  
-                <div class="work-details flex2">
-                  <a href="#"><h3>CANOPY</h3></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>Back End Dev</h4></a>
-                  <div class="bullet-point"></div>
-                  <a href=""><h4>2015</h4></a>
-                </div>
-                <p>
-                  A daily selection of privately personalized reads; no accounts
-                  or sign-ups required.
-                </p>
-                <ul>
-                  <li class="work-tools">
-                    <button type="button" class="tools">html</button>
-                    <button type="button" class="tools">css</button>
-                    <button type="button" class="tools">javascript</button>
-                  </li>
-                </ul>
-                <div>
-                  <button type="button" class="primary-btn">See Project</button>
-                </div>
-              </div>
-              </div>
-                </div>
-              </div>
-
             
-        
+            
+            </div>
+            <!-- <------------ Pop-up-section Start------------->
+            
+            <div class="back-pop none">
+            
+            
+              <div class="popup">
+                  
+            </div>
+           </div>
+           
+             <!-- <------------ Pop-up-section End------------->
+              
+
         </section>
-        <section id="about-section">
+
+        <!-- Work-section Ends here -->
+
+        <!-- About-section Starts here -->
+        <section id="about">
           <div class="about-title container">
             <div class="row">
               <div class="left">
              
-           
-            <h1>
+            <h2>
               About <br />
               Myself
-            </h1>
+            </h2>
             <p>
               Hello I’m a software developer! I can help you build a product ,
               feature or website Look through some of my work and experience! If
@@ -285,31 +151,31 @@
             <ul class="social-icons">
               <li>
                 <a href="twitter.com/" target="_blank">
-                  <img src="./images/twitter.svg" alt="twitter-icon" />
+                  <img src="./images/twitter.svg" alt="twitter" />
                 </a>
               </li>
 
               <li>
                 <a href="linkedin.com" target="_blank">
-                  <img src="./images/linkedIn.svg" alt="linkedin-icon"
+                  <img src="./images/linkedIn.svg" alt="linkedin"
                 /></a>
               </li>
 
               <li>
                 <a href="medium.com" target="_blank">
-                  <img src="./images/medium.svg" alt="medium-icon" />
+                  <img src="./images/medium.svg" alt="medium" />
                 </a>
               </li>
 
               <li>
                 <a href="github.com" target="_blank">
-                  <img src="./images/github.svg" alt="github-icon" />
+                  <img src="./images/github.svg" alt="github" />
                 </a>
               </li>
 
               <li>
                 <a href="angel.com" target="_blank">
-                  <img src="./images/angel.svg" alt="angel-icon" />
+                  <img src="./images/angel.svg" alt="angel" />
                 </a>
               </li>
             </ul>
@@ -333,21 +199,21 @@
               <div class="box">
               <ul class="languages-box">
                 <li>
-                  <img src="./images/js-icon.svg" alt="js-icon" />
+                  <img src="./images/js-icon.svg" alt="js" />
                   <a href="#"><p>Javascript</p></a>
                 </li>
               </ul>
 
               <ul class="languages-box">
                 <li>
-                  <img src="./images/html-icon.svg" alt="html-icon" />
+                  <img src="./images/html-icon.svg" alt="html" />
                   <a href="#"><p>HTML</p></a>
                 </li>
               </ul>
 
               <ul class="languages-box">
                 <li>
-                  <img src="./images/css-icon.svg" alt="css-icon" />
+                  <img src="./images/css-icon.svg" alt="css" />
                   <a href="#"><p>CSS</p></a>
                 </li>
               </ul>
@@ -375,23 +241,29 @@
           </div>
            </div>
         </section>
+        <!-- About-section Ends here -->
+
+         <!-- Contact-section Starts here -->
 
          <section>
-          <div id='contact-section'>
+          <div id='contact'>
           <div class='contact-details container'>
-            <h1>Contact me</h1>
+            <h2>Contact me</h2>
             <p>If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I’d love to help with it </p>
             
-            <form action="https://formspree.io/f/xaykozra" method="post" >
+            <form id='form' action="https://formspree.io/f/xaykozra" method="post" >
               <ul class="input-form">
+              
               <li>
-                <input type="text" name="namearea" class="contact-form-input" placeholder="Enter Your name" maxlength="30" required>            
+                <input type="text" name="namearea" class="contact-form-input" placeholder="Enter Your name" maxlength="30" id='name' required>        
               </li>
+              
               <li>
-                  <input type="email" name="emailarea" class="contact-form-input" placeholder="Email Address" required>
+                  <input type="email" name="emailarea" class="contact-form-input" placeholder="Email Address" id="email" required>
+                  <span class='error'></span>
                 </li>
                 <li>
-                    <textarea class="contact-form-input"  name= "messagearea" cols="30" rows="10" placeholder="Write your message here"  maxlength="500" required></textarea >               
+                    <textarea class="contact-form-input"  name= "messagearea" cols="30" rows="10" placeholder="Write your message here"  maxlength="500" id='message'  required></textarea >               
                   </li>
               </ul>
     
@@ -402,8 +274,6 @@
           </div>
          </section>
       </main>
-
-      <script src="hamburgers.js
-      "></script>
+       <script src="window_Popup.js"></script>
   </body>
 </html>
